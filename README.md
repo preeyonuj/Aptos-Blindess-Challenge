@@ -27,4 +27,4 @@ Trained the EfficientNet-B1 for 50 epochs. Although model saturates after 15 epo
 Overall Accuracy : 0.71869 <br>
 Kappa Score : 0.54697 <br>
 
-It is very apparent that the model is biased towards class 3 i.e. it predicts most of the samples as class 3. Class 3 and 4 literally didn't have a single correct prediction.
+It is very apparent that the model is biased towards class 2 i.e. it predicts most of the samples as class 3. Class 3 and 4 literally didn't have a single correct prediction.
